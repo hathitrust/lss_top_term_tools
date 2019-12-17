@@ -1,0 +1,47 @@
+==> shard10_top200k_terms <==
+ocr:the 	 totalTF = 4,736,040,962 	 docFreq = 864,004 
+ocr:of 	 totalTF = 3,083,363,949 	 docFreq = 901,073 
+ocr:and 	 totalTF = 2,102,633,476 	 docFreq = 812,161 
+ocr:a 	 totalTF = 2,053,968,505 	 docFreq = 977,951 
+ocr:in 	 totalTF = 1,909,155,706 	 docFreq = 940,285 
+ocr:to 	 totalTF = 1,701,802,079 	 docFreq = 889,742 
+ocr:de 	 totalTF = 1,244,130,338 	 docFreq = 858,244 
+ocr:of_the 	 totalTF = 826,509,197 	 docFreq = 752,289 
+ocr:1 	 totalTF = 795,112,369 	 docFreq = 1,045,891 
+ocr:is 	 totalTF = 734,941,827 	 docFreq = 854,665 
+
+==> shard11_top200k_terms <==
+ocr:the 	 totalTF = 6,971,278,201 	 docFreq = 1,273,327 
+ocr:of 	 totalTF = 4,566,469,960 	 docFreq = 1,328,508 
+ocr:and 	 totalTF = 3,092,197,917 	 docFreq = 1,194,196 
+ocr:a 	 totalTF = 3,012,168,009 	 docFreq = 1,441,023 
+ocr:in 	 totalTF = 2,801,210,054 	 docFreq = 1,383,328 
+ocr:to 	 totalTF = 2,501,877,244 	 docFreq = 1,311,434 
+ocr:de 	 totalTF = 1,828,990,350 	 docFreq = 1,261,435 
+ocr:of_the 	 totalTF = 1,221,638,764 	 docFreq = 1,106,866 
+ocr:1 	 totalTF = 1,163,376,827 	 docFreq = 1,540,786 
+ocr:is 	 totalTF = 1,080,023,056 	 docFreq = 1,256,575 
+
+==> shard12_top200k_terms <==
+ocr:the 	 totalTF = 5,070,228,748 	 docFreq = 925,385 
+ocr:of 	 totalTF = 3,315,794,444 	 docFreq = 964,947 
+ocr:and 	 totalTF = 2,239,080,315 	 docFreq = 867,115 
+ocr:a 	 totalTF = 2,196,792,539 	 docFreq = 1,048,068 
+ocr:in 	 totalTF = 2,045,077,453 	 docFreq = 1,006,088 
+ocr:to 	 totalTF = 1,816,955,741 	 docFreq = 952,457 
+ocr:de 	 totalTF = 1,339,204,543 	 docFreq = 918,887 
+ocr:of_the 	 totalTF = 887,774,184 	 docFreq = 803,294 
+ocr:1 	 totalTF = 836,155,018 	 docFreq = 1,119,258 
+ocr:is 	 totalTF = 784,837,945 	 docFreq = 913,567 
+
+==> shard1_top200k_terms <==
+ocr:the 	 totalTF = 8,878,696,867 	 docFreq = 1,598,333 
+ocr:of 	 totalTF = 5,784,752,940 	 docFreq = 1,668,670 
+ocr:and 	 totalTF = 3,929,002,696 	 docFreq = 1,495,176 
+ocr:a 	 totalTF = 3,827,079,199 	 docFreq = 1,815,770 
+ocr:in 	 totalTF = 3,560,570,495 	 docFreq = 1,738,158 
+ocr:to 	 totalTF = 3,161,486,971 	 docFreq = 1,644,629 
+ocr:de 	 totalTF = 2,275,165,937 	 docFreq = 1,593,002 
+ocr:of_the 	 totalTF = 1,548,583,363 	 docFreq = 1,386,006 
+ocr:1 	 totalTF = 1,415,660,999 	 docFreq = 1,954,830 
+ocr:is 	 totalTF = 1,380,792,108 	 docFreq = 1,574,189 
