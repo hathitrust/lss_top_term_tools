@@ -16,8 +16,8 @@ export SOLR_LIB=/htsolr/lss-dev/solrs/solr6.6/common/lib
 
 java
 
-# the formula for these classes is lucene-class_name-lucene_version_number.jar  In this case 6.6.5
-# the exception is the version of the icu4j library used by the current version of solr i.e. icu4j-56.1 isthe version used in Solr 6.6.5
+ the formula for these classes is lucene-class_name-lucene_version_number.jar  In this case 6.6.5
+ the exception is the version of the icu4j library used by the current version of solr i.e. icu4j-56.1 isthe version used in Solr 6.6.5
 
 
 Start by making sure the path resolves.  The following will just run the program with no arguments and should get the help text
