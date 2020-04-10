@@ -12,7 +12,8 @@ $ua->timeout($TIMEOUT);
 
 # list of top N commongrams
 #my $commongrams_file = "../tmp/common4caching"; # for 1000 commongrams
-my $commongrams_file = "../tmp/common4cache_warming638"; #for 3000 commongrams
+my $commongrams_file = "/htsolr/lss-dev/data/4/2020/tmp2/newCommon4caching";
+
 
 
 my $CommonGrams = getCommonGrams($commongrams_file);
