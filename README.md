@@ -1,5 +1,7 @@
 # lss_top_term_tools
 
+Update:  See https://tools.lib.umich.edu/confluence/display/HAT/Tuning+CommonGrams+and+the+cache-warming+queries.  New queries are in 2020cachewarming dir
+
 ## Summary
 We use CommonGrams to allow queries with phrase queries containing common words to be processed effciently. (See https://tools.lib.umich.edu/confluence/display/HAT/Tuning+CommonGrams+and+the+cache-warming+queries for background)
 In order to create CommonGrams we need a list of common words to be used in creating CommonGrams. These tools take the output of running  lucene.misc.HighFreqTerms on all shards, output totals for the entire index, and then facilitate processing that output to produce a "words" file for use in Solr CommonGrams.
